@@ -1,6 +1,6 @@
-frontend-nanodegree-arcade-game
-===============================
+READ ME
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
+Step 1: Open index.html.
+Step 2: Use up, down, left, and right arrows to move player.
+Step 3: Try to avoid all enemy bugs moving the player into the water using the arrow keys.
+Step 4: Try to get the highest score possible. Scores reset when player hits a bug.
